@@ -1,6 +1,8 @@
 # -
 객체지향 프로그래밍 실습 코드 올리는 곳 
 
+과제 외 코드 
+다중 상속과 함수 오버라이딩을 사용한 다형성 코드
 
     #include <iostream>
     using namespace std;
